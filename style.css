@@ -115,9 +115,9 @@ header
 
 .profile-img{
   width:220px;
-  height:220px;        /* makes it square */
-  object-fit:cover;   /* prevents distortion */
-  border-radius:12px; /* optional: remove if you want sharp square */
+  height:220px;        
+  object-fit:cover;   
+  border-radius:12px; 
   flex-shrink:0;
 }
 .hero-text{
@@ -255,3 +255,4 @@ footer
   .hero h2{font-size:2.2rem;}
   .section{padding:3rem 1.5rem;}
 }
+
